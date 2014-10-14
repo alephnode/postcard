@@ -24,6 +24,7 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        //ADDING TEST COMMENT TO SEE IF COMMIT WORKS
         // Dispose of any resources that can be recreated.
     }
 
